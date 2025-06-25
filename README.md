@@ -10,7 +10,7 @@ Dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 Modelo lógico do banco de dados:
 ![image](https://github.com/user-attachments/assets/90e302d6-807c-4002-8ca7-8822f2d564e8)
 
-#Ferramentas
+# Ferramentas
 Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
 
 SQL: As consultas foram estruturadas através do SGBD PostgreSQL.
