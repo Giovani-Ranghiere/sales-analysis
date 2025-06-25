@@ -11,7 +11,7 @@ Modelo lógico do banco de dados:
 ![image](https://github.com/user-attachments/assets/90e302d6-807c-4002-8ca7-8822f2d564e8)
 
 # Ferramentas
-Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
+Para a execução dessa análise, foram utilizadas as ferramentas:
 
 SQL: As consultas foram estruturadas através do SGBD PostgreSQL.
 Tableau: O dashboard do projeto, com a necessidade da criação de algumas funções para a construção das visualizações.
